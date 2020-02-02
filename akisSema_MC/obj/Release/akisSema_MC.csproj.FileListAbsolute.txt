@@ -1,0 +1,30 @@
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.exe.config
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.exe
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.pdb
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Form1.resources
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Form2.resources
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Properties.Resources.resources
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.csproj.GenerateResource.Cache
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.exe
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.pdb
+C:\Users\MC\documents\visual studio 2013\Projects\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.csprojResolveAssemblyReference.cache
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.exe.config
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.exe
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.pdb
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.exe
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.pdb
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.csprojResolveAssemblyReference.cache
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Form1.resources
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Form2.resources
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Properties.Resources.resources
+C:\Users\MC\Desktop\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.csproj.GenerateResource.Cache
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.exe.config
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.exe
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.pdb
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.exe
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\bin\Release\akisSema_MC.pdb
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.csprojResolveAssemblyReference.cache
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Form1.resources
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Form2.resources
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.Properties.Resources.resources
+D:\Şema Akış Programlama\akisSema_MC\YMT projesi\YMT projesi\akisSema_MC\akisSema_MC\akisSema_MC\obj\Release\akisSema_MC.csproj.GenerateResource.Cache

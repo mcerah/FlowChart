@@ -1,0 +1,5 @@
+Program büyük ölçüde tamamlanmýþtýr fakat çözülmesi gereken ufak problemleri vardýr.
+Program kapsamlý þekilde test edilmemiþtir.
+Kod analizi yapacaklar ve nasýl çalýþtýðýný anlamak için algoritmalarý inceleyeceklere uyarý : 
+- Bu yazýlým Lise bilgilerine ve tecrübelerine dayanarak Üniversite 1. Sýnýf öðrencisi tarafýndan hazýrlanmýþtýr.Dolayýsýyla
+- Nesne Yönelimli bir mimari izlenmemiþtir.
